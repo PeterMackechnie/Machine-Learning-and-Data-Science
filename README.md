@@ -1,8 +1,9 @@
 # Machine-Learning-and-Data-Science
 A collection of Machine-Learning and Data-Science projects/investigations including:
 
-1.1. Diamonds - Unrefined vs Refined Regression models:
-This investigation examines the potential of 5 different regression models to predict the price of round-cut diamonds (from the 'Diamonds' dataset - see below), as well as the wisdom of using the performance of unrefined regression models to select which model to refine and use as the final model in a given situation.
+1.1. Diamonds - Unrefined vs Refined Regression Models: This investigation examines the potential of 5 different regression models to predict the price of round-cut diamonds (from the 'Diamonds' dataset - see below), as well as the wisdom of using the performance of unrefined regression models to select which model to refine and use as the final model in a given situation.
+
+1.2. Diamonds - Neural Network vs Regression Model: This investigation examines whether a model built using a Neural Network can outperform the best performing regression model (an Extreme Gradient Boosting regression model) from my prevoius investigation '1.1. Diamonds - Unrefined vs Refined Regression Models' when it comes to predicting the price of diamonds from the 'Diamonds' dataset.
 
 The 'Diamonds' dataset:
 
